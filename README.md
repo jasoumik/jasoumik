@@ -71,6 +71,11 @@ I’m passionate about **clean architecture**, **secure APIs**, and **high-perfo
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoumik&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasoumik&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+
 ---
 
 ## 🏆 GitHub Trophies
