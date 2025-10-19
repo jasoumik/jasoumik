@@ -13,6 +13,11 @@
 
 🚀 **Backend-Focused Full Stack Engineer** with 5+ years of experience designing, developing, and maintaining scalable web applications using **Laravel**, **Symfony**, **Node.js**, and modern frontend frameworks like **React** and **TypeScript**.  
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasoumik&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+
 I’m passionate about **clean architecture**, **secure APIs**, and **high-performance backend systems** — turning complex business logic into reliable, production-ready software.  
 
 ---
@@ -63,15 +68,11 @@ I’m passionate about **clean architecture**, **secure APIs**, and **high-perfo
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasoumik&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasoumik&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoumik&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jasoumik&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 
