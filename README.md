@@ -63,7 +63,6 @@ I’m passionate about **clean architecture**, **secure APIs**, and **high-perfo
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jasoumik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasoumik&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -78,23 +77,6 @@ I’m passionate about **clean architecture**, **secure APIs**, and **high-perfo
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jasoumik&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 🔗 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/jasoumik/intoindex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasoumik&repo=intoindex&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/jasoumik/intopocket">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jasoumik&repo=intopocket&theme=tokyonight" />
-  </a>
-</p>
 
 *(These update automatically as your repos grow!)*
 
