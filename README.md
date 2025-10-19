@@ -72,11 +72,11 @@ I’m passionate about **clean architecture**, **secure APIs**, and **high-perfo
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasoumik&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasoumik&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoumik&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoumik&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 ---
