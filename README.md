@@ -1,4 +1,8 @@
 # 👋 Hi, I'm Jarif Ahmed Soumik
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 🚀 **Backend-Focused Full Stack Engineer** with 5+ years of experience designing, developing, and maintaining scalable web applications using **Laravel**, **Symfony**, and modern JavaScript frameworks like **React** and **TypeScript**.
 
